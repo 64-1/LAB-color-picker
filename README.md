@@ -14,7 +14,7 @@ A graphical application to display the L\*a\*b\* (LAB) color values of pixels in
 
 ## Demo
 
-![LAB Color Picker Screenshot](screenshot.png)
+![LAB Color Picker Screenshot](Screenshot.png)
 
 ## Installation
 
